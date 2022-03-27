@@ -11,6 +11,7 @@
   inputs.src-nimgraphql-master.ref   = "refs/heads/master";
   inputs.src-nimgraphql-master.owner = "genotrance";
   inputs.src-nimgraphql-master.repo  = "nimgraphql";
+  inputs.src-nimgraphql-master.dir   = "";
   inputs.src-nimgraphql-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
